@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Rick 👋
 
 <!--
 **pock999/pock999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
