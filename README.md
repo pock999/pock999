@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rick</h1>
 
 <h3>Software Engineer | Backend-Focused Full-Stack Development | Enterprise Applications · Data Platforms · SCM Systems</h3>
-<p align="right">
+
 ![](https://komarev.com/ghpvc/?username=pock999)
-</p>
 
 <p>
 I build backend services and full-stack applications, with an interest in system design, data-driven applications, and software architecture.
