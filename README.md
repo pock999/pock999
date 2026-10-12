@@ -1,14 +1,10 @@
-### Hi, I'm Rick.
+<h1 align="center">Hi 👋, I'm Rick</h1>
+
+<h3>Software Engineer | Backend-Focused Full-Stack Development | Enterprise Applications · Data Platforms · SCM Systems</h3>
 
 <div align="center">
   <img width="576" height="576" alt="AI GIF Generator（背景圖）" src="https://github.com/user-attachments/assets/c39eb52d-0796-4ae6-a35e-d41b56223907" />
 </div>
-
-![](https://komarev.com/ghpvc/?username=pock999)
-
-
-<h1 align="center">Hi 👋, I'm Rick</h1>
-<h3 align="center">Software Engineer | Backend-Focused Full-Stack Development | Enterprise Applications · Data Platforms · SCM Systems</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pock999&show_icons=true&locale=en&layout=compact" alt="pock999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pock999&show_icons=true&locale=en" alt="pock999" /></p>
+
+
+![](https://komarev.com/ghpvc/?username=pock999)
