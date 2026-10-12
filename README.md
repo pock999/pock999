@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rick</h1>
 
 <h3>Software Engineer | Backend-Focused Full-Stack Development | Enterprise Applications · Data Platforms · SCM Systems</h3>
+<p align="right">
+![](https://komarev.com/ghpvc/?username=pock999)
+</p>
 
 <p>
 I build backend services and full-stack applications, with an interest in system design, data-driven applications, and software architecture.
@@ -30,6 +33,3 @@ I build backend services and full-stack applications, with an interest in system
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pock999&show_icons=true&locale=en&layout=compact" alt="pock999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pock999&show_icons=true&locale=en" alt="pock999" /></p>
-
-
-![](https://komarev.com/ghpvc/?username=pock999)
