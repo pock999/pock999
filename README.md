@@ -17,6 +17,7 @@ I build backend services and full-stack applications, with an interest in system
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/rick-hou-ba1a04184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rick-hou-ba1a04184" height="30" width="40" /></a>
 <a href="https://medium.com/@rickh999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rickh999" height="30" width="40" /></a>
 </p>
 
