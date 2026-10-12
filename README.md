@@ -11,9 +11,9 @@ I build backend services and full-stack applications, with an interest in system
 </div>
 
 <h3 align="left">What I Do:</h3>
-- Build backend services and API-driven applications.
-- Integrate enterprise systems and automate workflows.
-- Explore software architecture through personal projects.
+<p align="left">- Build backend services and API-driven applications.</p>
+<p align="left">- Integrate enterprise systems and automate workflows.</p>
+<p align="left">- Explore software architecture through personal projects.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
